@@ -6,10 +6,10 @@ return the median of the two sorted arrays.
 
 The overall run time complexity should be O(log (m+n)).
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676857720/img/4-ex_sl6tjf.png)
+![](https://i.imgur.com/0OzPOgK.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676857720/img/4-con_b9ywvf.png)
+![](https://i.imgur.com/jiuEWWn.png)
 
 ### code:
 ```
@@ -61,4 +61,4 @@ double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Si
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676857893/img/4-sub_ubgamd.png)
+![](https://i.imgur.com/mmeLpVC.png)

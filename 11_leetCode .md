@@ -10,10 +10,10 @@ Return the maximum amount of water a container can store.
 
 Notice that you may not slant the container.
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676863613/img/11-ex_dp7qy4.png)
+![](https://i.imgur.com/xwTwKNV.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676863613/img/11-con_chsm7r.png)
+![](https://i.imgur.com/iVYA7jJ.png)
 
 ### code:
 ```
@@ -41,4 +41,4 @@ int maxArea(int* height, int heightSize){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676863613/img/11-sub_kapibx.png)
+![](https://i.imgur.com/zfjZQTU.png)

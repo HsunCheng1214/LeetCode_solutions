@@ -10,10 +10,10 @@ implement regular expression matching with support for '.' and '*' where:
 The matching should cover the entire input string (not partial).
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676861565/img/10-ex_zwx3fc.png)
+![](https://i.imgur.com/vOLfPMr.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676861565/img/10-con_tswzqx.png)
+![](https://i.imgur.com/lAtjBxC.png)
 
 
 ### code:
@@ -42,6 +42,6 @@ bool isMatch(char * s, char * p){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676861565/img/10-sub_l4kppl.png)
+![](https://i.imgur.com/lAtjBxC.png)
 
 

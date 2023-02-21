@@ -5,18 +5,18 @@ The string "PAYPALISHIRING" is written in a zigzag pattern on a
 given number of rows like this: 
 (you may want to display this pattern in a fixed font for better legibility)
 
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859230/img/6_halyps.png)
+![](https://i.imgur.com/Mj909OP.png)
 
 And then read line by line: "PAHNAPLSIIGYIR"
 Write the code that will take a string and make this conversion given a number of rows:
 
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859230/img/6-2_txqpmc.png)
+![](https://i.imgur.com/Usado0A.png)
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859230/img/6-ex_shvqve.png)
+![](https://i.imgur.com/yn9PD8e.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859230/img/6-con_wgphhc.png)
+![](https://i.imgur.com/Z4xVBkx.png)
 
 
 ### code:
@@ -49,4 +49,4 @@ char * convert(char * s, int numRows){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859230/img/6-sub_twysvm.png)
+![](https://i.imgur.com/C07dpLM.png)

@@ -22,12 +22,12 @@ and integers greater than 231 - 1 should be clamped to 231 - 1.
 Return the integer as the final result.
 
 ### Note:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676860519/img/8-note_add3rn.png)
+![](https://i.imgur.com/oLOOQzK.png)
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676860519/img/8-ex1_fv0tvv.png)
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676860519/img/8-ex2_tvoa7n.png)
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676860519/img/8-ex3_aat5co.png)
+![](https://i.imgur.com/cWCmmqJ.png)
+![](https://i.imgur.com/1lilbgk.png)
+![](https://i.imgur.com/RoD8bm6.png)
 
 ### constraints:
 ![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676860519/img/8-con_tojewo.png)
@@ -94,4 +94,4 @@ int myAtoi(char * s){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676860519/img/8-sub_vcfdwj.png)
+![](https://i.imgur.com/OvQA6uG.png)

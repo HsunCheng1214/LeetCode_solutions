@@ -11,10 +11,10 @@ same element twice.
 You can return the answer in any order.
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676855611/img/1-ex_xa0vqn.png)
+![](https://i.imgur.com/idkTAtl.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676855610/img/1-con_x6wl7u.png)
+![](https://i.imgur.com/0v4YU7v.png)
 
 ### Follow-up:
 Can you come up with an algorithm 
@@ -51,4 +51,4 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676855983/img/1-submit_bytcnn.png)
+![](https://i.imgur.com/89OMajw.png)

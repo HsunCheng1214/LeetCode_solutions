@@ -3,7 +3,7 @@
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676872390/img/13_bzuoku.png)
+![](https://i.imgur.com/7s4Nsk9.png)
 
 For example, 2 is written as II in Roman numeral, just two ones added together. 
 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, 
@@ -21,10 +21,10 @@ There are six instances where subtraction is used:
 
 Given a roman numeral, convert it to an integer.
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676872390/img/13-ex_mn9d81.png)
+![](https://i.imgur.com/PEt26mb.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676872390/img/13-con_sigtqr.png)
+![](https://i.imgur.com/gGJUIhq.png)
 
 ### code:
 ```
@@ -88,4 +88,4 @@ int romanToInt(char * s){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676872390/img/13-sub_aut8r0.png)
+![](https://i.imgur.com/5a4XiVE.png)

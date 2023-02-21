@@ -5,10 +5,10 @@ Given a string s, find the length of the longest substring
 without repeating characters.
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676857427/img/3-ex_pcaru1.png)
+![](https://i.imgur.com/WiYdk56.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676857505/img/3-con_p5tk0t.png)
+![](https://i.imgur.com/ZSQ44Ac.png)
 
 ### code:
 ```
@@ -32,4 +32,4 @@ int lengthOfLongestSubstring(char * s){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676857427/img/3-sub_kfr9yq.png)
+![](https://i.imgur.com/fQgErHN.png)

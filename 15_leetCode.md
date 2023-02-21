@@ -6,10 +6,10 @@ such that i != j, i != k, and j != k, and **nums[i] + nums[j] + nums[k]** == 0.
 
 Notice that the solution set must not contain duplicate triplets.
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676873799/img/15-ex_tmhycg.png)
+![](https://i.imgur.com/10a3xVj.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676873798/img/15-con_k1dwsa.png)
+![](https://i.imgur.com/7jf1GfD.png)
 
 ### code:
 ```

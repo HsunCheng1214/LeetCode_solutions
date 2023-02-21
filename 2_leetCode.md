@@ -8,11 +8,11 @@ a linked list.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676856522/img/2-ex-1_ioeoag.png)
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676856522/img/2-ex-2_p8avd7.png)
+![](https://i.imgur.com/UaWdHzB.png)
+![](https://i.imgur.com/SN9NGIs.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676856522/img/2-con_tngksk.png)
+![](https://i.imgur.com/h4L1Qou.png)
 
 ### code:
 ```
@@ -56,4 +56,4 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676856655/img/2-submit_d9z2kh.png)
+![](https://i.imgur.com/th8C6F3.png)

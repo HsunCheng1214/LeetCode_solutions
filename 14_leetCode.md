@@ -5,10 +5,10 @@ Write a function to find the longest common prefix string amongst an array of st
 
 If there is no common prefix, return an empty string "".
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676872818/img/14-ex_gi0qbm.png)
+![](https://i.imgur.com/pSXUYui.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676872818/img/14-con_k5ewbb.png)
+![](https://i.imgur.com/Pj4lbOa.png)
 
 ### code:
 ```
@@ -34,4 +34,4 @@ char * longestCommonPrefix(char ** strs, int strsSize){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676872818/img/14-sub_w3jx4j.png)
+![](https://i.imgur.com/4w0bql4.png)

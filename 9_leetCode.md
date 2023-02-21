@@ -3,10 +3,10 @@
 
 Given an integer x, return true if x is a  palindrome, and false otherwise.
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676861303/img/9-ex_zxrbou.png)
+![](https://i.imgur.com/OvQA6uG.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676861303/img/9-con_uyliom.png)
+![](https://i.imgur.com/WBpbZac.png)
 
 
 ### code:
@@ -38,4 +38,4 @@ bool isPalindrome(int x){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676861303/img/9-sub_kvkciy.png)
+![](https://i.imgur.com/3TlhfqD.png)

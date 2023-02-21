@@ -4,10 +4,10 @@
 Given a string s, return the longest palindromic substring in s.
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676858535/img/5-ex_teuucy.png)
+![](https://i.imgur.com/S0bIvhx.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676858535/img/5-con_m7mqf2.png)
+![](https://i.imgur.com/0y1CdFA.png)
 
 ### code:
 ```
@@ -50,4 +50,4 @@ char * longestPalindrome(char * s){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676858535/img/5-sub_k3pubv.png)
+![](https://i.imgur.com/yR0tKTd.png)

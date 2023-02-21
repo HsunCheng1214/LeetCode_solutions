@@ -20,10 +20,10 @@ There are six instances where subtraction is used:
 Given an integer, convert it to a roman numeral.
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676863950/img/12-ex_oopecg.png)
+![](https://i.imgur.com/ypnHTce.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676863950/img/12-con_umcpis.png)
+![](https://i.imgur.com/9p0mNOK.png)
 
 ### code:
 ```
@@ -96,4 +96,4 @@ char * intToRoman(int num){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676863950/img/12-sub_uyz0w4.png)
+![](https://i.imgur.com/f9qzD6C.png)

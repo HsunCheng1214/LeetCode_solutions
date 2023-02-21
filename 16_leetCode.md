@@ -8,10 +8,10 @@ Return the sum of the three integers.
 
 You may assume that each input would have exactly one solution.
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676874051/img/16-ex_iyvqba.png)
+![](https://i.imgur.com/QzaZ4uC.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676874050/img/16-con_ar6dto.png)
+![](https://i.imgur.com/kFIchUf.png)
 
 
 ### code:
@@ -47,4 +47,4 @@ int threeSumClosest(int* nums, int numsSize, int target){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676874050/img/16-sub_nh81yo.png)
+![](https://i.imgur.com/r1SzIKL.png)

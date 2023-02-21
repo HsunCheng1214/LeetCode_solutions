@@ -8,10 +8,10 @@ integer range [-231, 231 - 1], then return 0.
 **Assume the environment does not allow you to store 64-bit integers (signed or unsigned).**
 
 ### example:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859982/img/7-ex_or3rbu.png)
+![](https://i.imgur.com/WWTQ9Mb.png)
 
 ### constraints:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859982/img/7-con_ueboxx.png)
+![](https://i.imgur.com/a3IKFxq.png)
 
 ### code:
 ```
@@ -31,4 +31,4 @@ int reverse(int x){
 ```
 
 ### submissions:
-![](https://res.cloudinary.com/dj6mprtik/image/upload/v1676859982/img/7-sub_fzwjeo.png)
+![](https://i.imgur.com/bgurgVm.png)
